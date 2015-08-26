@@ -13,7 +13,7 @@ Implementation in Python 3, uses 'tkinter' module for GUI display of output.
   - 3. Guard Locations represented by colors.
 
 ###Compile Instructions
-  - python3 vertexGuard.py < input > output
+  - python3 ArtGalleryProblem.py < input > output
 
 ###Important Notes
 Following are the assumptions that are followed throughout.
